@@ -22,7 +22,6 @@ contract TemplateCoin is StandardToken {
 		 name = _tokenName;
 		 decimals = _decimalUnits;
 		 symbol = _tokenSymbol;
-
 	 }
 
 	 uint256 tokensCreated = 0;
